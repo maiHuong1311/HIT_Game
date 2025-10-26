@@ -1,0 +1,15 @@
+C:\Game_Private\week_2\Bai4\Bai4\bin\Debug\net8.0\Bai4.exe
+C:\Game_Private\week_2\Bai4\Bai4\bin\Debug\net8.0\Bai4.deps.json
+C:\Game_Private\week_2\Bai4\Bai4\bin\Debug\net8.0\Bai4.runtimeconfig.json
+C:\Game_Private\week_2\Bai4\Bai4\bin\Debug\net8.0\Bai4.dll
+C:\Game_Private\week_2\Bai4\Bai4\bin\Debug\net8.0\Bai4.pdb
+C:\Game_Private\week_2\Bai4\Bai4\obj\Debug\net8.0\Bai4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Game_Private\week_2\Bai4\Bai4\obj\Debug\net8.0\Bai4.AssemblyInfoInputs.cache
+C:\Game_Private\week_2\Bai4\Bai4\obj\Debug\net8.0\Bai4.AssemblyInfo.cs
+C:\Game_Private\week_2\Bai4\Bai4\obj\Debug\net8.0\Bai4.csproj.CoreCompileInputs.cache
+C:\Game_Private\week_2\Bai4\Bai4\obj\Debug\net8.0\Bai4.sourcelink.json
+C:\Game_Private\week_2\Bai4\Bai4\obj\Debug\net8.0\Bai4.dll
+C:\Game_Private\week_2\Bai4\Bai4\obj\Debug\net8.0\refint\Bai4.dll
+C:\Game_Private\week_2\Bai4\Bai4\obj\Debug\net8.0\Bai4.pdb
+C:\Game_Private\week_2\Bai4\Bai4\obj\Debug\net8.0\Bai4.genruntimeconfig.cache
+C:\Game_Private\week_2\Bai4\Bai4\obj\Debug\net8.0\ref\Bai4.dll

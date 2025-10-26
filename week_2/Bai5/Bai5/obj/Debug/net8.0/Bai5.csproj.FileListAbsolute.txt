@@ -1,0 +1,15 @@
+C:\Game_Private\week_2\Bai5\Bai5\obj\Debug\net8.0\Bai5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Game_Private\week_2\Bai5\Bai5\obj\Debug\net8.0\Bai5.AssemblyInfoInputs.cache
+C:\Game_Private\week_2\Bai5\Bai5\obj\Debug\net8.0\Bai5.AssemblyInfo.cs
+C:\Game_Private\week_2\Bai5\Bai5\obj\Debug\net8.0\Bai5.csproj.CoreCompileInputs.cache
+C:\Game_Private\week_2\Bai5\Bai5\obj\Debug\net8.0\Bai5.sourcelink.json
+C:\Game_Private\week_2\Bai5\Bai5\bin\Debug\net8.0\Bai5.exe
+C:\Game_Private\week_2\Bai5\Bai5\bin\Debug\net8.0\Bai5.deps.json
+C:\Game_Private\week_2\Bai5\Bai5\bin\Debug\net8.0\Bai5.runtimeconfig.json
+C:\Game_Private\week_2\Bai5\Bai5\bin\Debug\net8.0\Bai5.dll
+C:\Game_Private\week_2\Bai5\Bai5\bin\Debug\net8.0\Bai5.pdb
+C:\Game_Private\week_2\Bai5\Bai5\obj\Debug\net8.0\Bai5.dll
+C:\Game_Private\week_2\Bai5\Bai5\obj\Debug\net8.0\refint\Bai5.dll
+C:\Game_Private\week_2\Bai5\Bai5\obj\Debug\net8.0\Bai5.pdb
+C:\Game_Private\week_2\Bai5\Bai5\obj\Debug\net8.0\Bai5.genruntimeconfig.cache
+C:\Game_Private\week_2\Bai5\Bai5\obj\Debug\net8.0\ref\Bai5.dll
