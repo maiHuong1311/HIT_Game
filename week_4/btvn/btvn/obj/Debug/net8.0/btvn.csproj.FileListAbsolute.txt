@@ -1,0 +1,15 @@
+C:\Game_Private\week_4\btvn\btvn\bin\Debug\net8.0\btvn.exe
+C:\Game_Private\week_4\btvn\btvn\bin\Debug\net8.0\btvn.deps.json
+C:\Game_Private\week_4\btvn\btvn\bin\Debug\net8.0\btvn.runtimeconfig.json
+C:\Game_Private\week_4\btvn\btvn\bin\Debug\net8.0\btvn.dll
+C:\Game_Private\week_4\btvn\btvn\bin\Debug\net8.0\btvn.pdb
+C:\Game_Private\week_4\btvn\btvn\obj\Debug\net8.0\btvn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Game_Private\week_4\btvn\btvn\obj\Debug\net8.0\btvn.AssemblyInfoInputs.cache
+C:\Game_Private\week_4\btvn\btvn\obj\Debug\net8.0\btvn.AssemblyInfo.cs
+C:\Game_Private\week_4\btvn\btvn\obj\Debug\net8.0\btvn.csproj.CoreCompileInputs.cache
+C:\Game_Private\week_4\btvn\btvn\obj\Debug\net8.0\btvn.sourcelink.json
+C:\Game_Private\week_4\btvn\btvn\obj\Debug\net8.0\btvn.dll
+C:\Game_Private\week_4\btvn\btvn\obj\Debug\net8.0\refint\btvn.dll
+C:\Game_Private\week_4\btvn\btvn\obj\Debug\net8.0\btvn.pdb
+C:\Game_Private\week_4\btvn\btvn\obj\Debug\net8.0\btvn.genruntimeconfig.cache
+C:\Game_Private\week_4\btvn\btvn\obj\Debug\net8.0\ref\btvn.dll

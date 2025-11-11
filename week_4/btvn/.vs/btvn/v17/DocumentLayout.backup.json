@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Game_Private\\week_4\\btvn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84870328-4B77-4A9A-BA08-2F057D2450CF}|btvn\\btvn.csproj|c:\\game_private\\week_4\\btvn\\btvn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84870328-4B77-4A9A-BA08-2F057D2450CF}|btvn\\btvn.csproj|solutionrelative:btvn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84870328-4B77-4A9A-BA08-2F057D2450CF}|btvn\\btvn.csproj|c:\\game_private\\week_4\\btvn\\btvn\\congnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84870328-4B77-4A9A-BA08-2F057D2450CF}|btvn\\btvn.csproj|solutionrelative:btvn\\congnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84870328-4B77-4A9A-BA08-2F057D2450CF}|btvn\\btvn.csproj|c:\\game_private\\week_4\\btvn\\btvn\\qlcongnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84870328-4B77-4A9A-BA08-2F057D2450CF}|btvn\\btvn.csproj|solutionrelative:btvn\\qlcongnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84870328-4B77-4A9A-BA08-2F057D2450CF}|btvn\\btvn.csproj|c:\\game_private\\week_4\\btvn\\btvn\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84870328-4B77-4A9A-BA08-2F057D2450CF}|btvn\\btvn.csproj|solutionrelative:btvn\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QLCongNhan.cs",
+              "DocumentMoniker": "C:\\Game_Private\\week_4\\btvn\\btvn\\QLCongNhan.cs",
+              "RelativeDocumentMoniker": "btvn\\QLCongNhan.cs",
+              "ToolTip": "C:\\Game_Private\\week_4\\btvn\\btvn\\QLCongNhan.cs*",
+              "RelativeToolTip": "btvn\\QLCongNhan.cs*",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T17:35:06.312Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CongNhan.cs",
+              "DocumentMoniker": "C:\\Game_Private\\week_4\\btvn\\btvn\\CongNhan.cs",
+              "RelativeDocumentMoniker": "btvn\\CongNhan.cs",
+              "ToolTip": "C:\\Game_Private\\week_4\\btvn\\btvn\\CongNhan.cs",
+              "RelativeToolTip": "btvn\\CongNhan.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAA1wDsAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T10:38:45.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Game_Private\\week_4\\btvn\\btvn\\Person.cs",
+              "RelativeDocumentMoniker": "btvn\\Person.cs",
+              "ToolTip": "C:\\Game_Private\\week_4\\btvn\\btvn\\Person.cs",
+              "RelativeToolTip": "btvn\\Person.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T10:26:11.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Game_Private\\week_4\\btvn\\btvn\\Program.cs",
+              "RelativeDocumentMoniker": "btvn\\Program.cs",
+              "ToolTip": "C:\\Game_Private\\week_4\\btvn\\btvn\\Program.cs",
+              "RelativeToolTip": "btvn\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswCcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T10:22:38.674Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
